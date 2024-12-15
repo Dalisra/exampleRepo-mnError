@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.error
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle_kotlin
+features: [app-name, awaitility, cache-caffeine, control-panel, data, data-jdbc, flyway, graalvm, gradle, http-client, java, java-application, jdbc-hikari, junit, junit-params, langchain4j-googleai-gemini, logback, management, micrometer, micrometer-annotation, micrometer-prometheus, micronaut-aop, micronaut-aot, micronaut-build, micronaut-http-validation, micronaut-test-rest-assured, mockito, netty-server, openapi, openapi-explorer, postgres, properties, readme, retry, serialization-jackson, shade, static-resources, swagger-ui, test-resources, testcontainers, validation, views-velocity, websocket]
